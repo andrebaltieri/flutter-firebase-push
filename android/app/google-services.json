@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695532577610",
+    "firebase_url": "https://fblogin-d2852.firebaseio.com",
+    "project_id": "fblogin-d2852",
+    "storage_bucket": "fblogin-d2852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695532577610:android:b29f7b2da286fc444097b3",
+        "android_client_info": {
+          "package_name": "io.balta.fblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695532577610-41ki4a38m8f5if4qv25ho4veicju6808.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.balta.fblogin",
+            "certificate_hash": "a2ca157129b5bdbbec6c0bd255a6a6b944cf0d64"
+          }
+        },
+        {
+          "client_id": "695532577610-5eb7v9o82geomtsshor6u7jcdokc0d0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0qwgbCCMmSIwQxs97wq9OIBEU_BMEzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695532577610-5eb7v9o82geomtsshor6u7jcdokc0d0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
